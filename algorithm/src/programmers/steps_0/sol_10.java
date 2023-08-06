@@ -1,6 +1,6 @@
 //더 크게 합치기
 
-public class sol_9{
+public class sol_10{
     public int solution(int a, int b) {
         int result = Integer.parseInt(Integer.toString(a)+Integer.toString(b));
         int answer = Integer.parseInt(Integer.toString(b)+Integer.toString(a));
