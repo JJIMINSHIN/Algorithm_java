@@ -1,4 +1,5 @@
 //더 크게 합치기
+package programmers.steps_0;
 
 public class sol_10{
     public int solution(int a, int b) {

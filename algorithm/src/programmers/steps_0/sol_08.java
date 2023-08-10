@@ -3,12 +3,12 @@ package programmers.steps_0;
 import java.util.ArrayList;
 
 //배열의 길이에 따라 다른 연산하기
-public class sol_8 {
+public class sol_08 {
 	public static void main(String[] args) {
 		int[] arr = {49, 12, 100, 276, 33};
 		int n = 27;
 		
-		System.out.println(new sol_8().solution(arr, n));
+		System.out.println(new sol_08().solution(arr, n));
 
 	};
 

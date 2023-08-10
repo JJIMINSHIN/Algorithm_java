@@ -1,10 +1,10 @@
 package programmers.steps_0;
 
-public class sol_2 {
+public class sol_02 {
 	//문자열 바꿔서 찾기
 	
 	public static void main(String[] args) {
-		System.out.println(new sol_2().solution("ABBAA","AABB"));
+		System.out.println(new sol_02().solution("ABBAA","AABB"));
 		//new sol_2().solution("ABBAA","AABB");
 	};
 

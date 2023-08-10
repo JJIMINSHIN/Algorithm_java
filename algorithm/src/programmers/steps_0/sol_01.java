@@ -1,6 +1,6 @@
 package programmers.steps_0;
 
-public class sol_1 {
+public class sol_01 {
     //접두사인지 확인하기
 
     public static void main(String[] args) {

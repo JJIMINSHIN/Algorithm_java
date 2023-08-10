@@ -1,10 +1,10 @@
 package programmers.steps_0;
 
-public class sol_4 {
+public class sol_04 {
 	//주사위 게임 1
 	
 	public static void main(String[] args) {
-		System.out.println(new sol_4().solution(3, 5));
+		System.out.println(new sol_04().solution(3, 5));
 	};
 	
 	public int solution(int a, int b) {
