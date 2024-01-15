@@ -1,4 +1,4 @@
-package inf_ch01;
+package inf;
 
 public class ch01_01 {
 
