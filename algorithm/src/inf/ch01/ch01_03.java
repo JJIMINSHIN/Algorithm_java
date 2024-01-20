@@ -28,6 +28,7 @@ public class ch01_03 {
 		return answer;
 	}
 	
+	// substring, indexOf 사용
 	public String solution(String str){
 		String answer="";
 		int m=Integer.MIN_VALUE, pos;
