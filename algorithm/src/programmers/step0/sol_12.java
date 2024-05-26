@@ -2,7 +2,7 @@
  * 덧셈식 출력하기 
  */
 
-package programmers;
+package programmers.step0;
 
 import java.util.Scanner;
 

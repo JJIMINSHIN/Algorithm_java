@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 public class sol_03 {
 	// 원하는 문자열 찾기

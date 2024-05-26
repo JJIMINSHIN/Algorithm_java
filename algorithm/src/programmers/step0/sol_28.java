@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 /*
  *  System.arraycopy(Object src, int srcPos, Object dest, int destPos, int length)
  *  src : 복사하고자 하는 원본 배열

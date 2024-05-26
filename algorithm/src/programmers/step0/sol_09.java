@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 // A 강조하기
 

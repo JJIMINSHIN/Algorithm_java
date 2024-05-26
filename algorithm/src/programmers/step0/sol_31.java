@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 //간단한 식 계산하기
 

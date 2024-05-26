@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 //홀수 vs 짝수
 

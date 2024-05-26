@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 public class sol_01 {
     //접두사인지 확인하기

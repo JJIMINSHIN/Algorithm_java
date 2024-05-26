@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 //공배수
 public class sol_22 {

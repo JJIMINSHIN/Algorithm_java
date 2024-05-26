@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 /*
  * 글자 지우기

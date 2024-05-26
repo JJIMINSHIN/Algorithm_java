@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 public class sol_36 {
 	

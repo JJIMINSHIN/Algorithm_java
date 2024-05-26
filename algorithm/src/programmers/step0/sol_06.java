@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 // 특정한 문자를 대문자로 바꾸기
 public class sol_06 {

@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 //접미사인지 확인하기
 public class sol_23 {

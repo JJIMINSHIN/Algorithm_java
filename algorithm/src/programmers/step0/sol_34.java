@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 import java.util.ArrayList;
 /*

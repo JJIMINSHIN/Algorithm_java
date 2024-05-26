@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 //홀짝에 따라 다른 값 반환하기
 public class sol_21 {

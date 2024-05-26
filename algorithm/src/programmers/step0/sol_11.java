@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 //l로 만들기
 public class sol_11 {
 

@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 //특수문자 출력하기
 public class sol_16 {

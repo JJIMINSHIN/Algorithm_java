@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 //두 수의 연산값 비교하기
 public class sol_18 {

@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 //문자열로 변환
 public class sol_20 {

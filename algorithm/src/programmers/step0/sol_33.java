@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 
 //9로 나눈 나머지

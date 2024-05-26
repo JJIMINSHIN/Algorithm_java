@@ -1,4 +1,4 @@
-package programmers;
+package programmers.step0;
 
 //문자열 곱하기
 
