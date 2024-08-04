@@ -1,4 +1,4 @@
-package programmers.basic;
+package programmers.step0;
 
 /************
  * @name : rny_string
@@ -12,15 +12,15 @@ package programmers.basic;
  * 
  ************/
 
-public class rny_string {
+public class sol_39 {
 
 	public static void main(String args[]) {
 		long startTime = System.currentTimeMillis();
 		
-		System.out.println(new rny_string().solution("masterpiece"));
-		System.out.println(new rny_string().solution("programmers"));
-		System.out.println(new rny_string().solution("jerry"));
-		System.out.println(new rny_string().solution("burn"));
+		System.out.println(new sol_39().solution("masterpiece"));
+		System.out.println(new sol_39().solution("programmers"));
+		System.out.println(new sol_39().solution("jerry"));
+		System.out.println(new sol_39().solution("burn"));
 		
 		
 		long endTime = System.currentTimeMillis();
