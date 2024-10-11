@@ -8,7 +8,7 @@ package programmers.level1;
  * 단순 구현 문제, 삼항 연산자로 해결
  ************/
 
-public class 짝수와홀수 {
+public class pro_짝수와홀수 {
 	public String solution(int num) {
 		return num % 2 != 0 ? "Odd" : "Even";
 	}
