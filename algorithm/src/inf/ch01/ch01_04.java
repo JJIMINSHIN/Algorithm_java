@@ -2,6 +2,13 @@ package inf.ch01;
 
 import java.io.*;
 
+/************
+ * @name : 단어 뒤집기
+ * @date : 2024/07/04 
+ * @time : 1119 (ms)
+ * @Description :
+ ************/
+
 public class ch01_04 {
 	
 	public static void main(String args[]) throws IOException {
