@@ -1,5 +1,12 @@
  package inf.ch01;
 
+ /************
+  * @name : 대소문자 변환
+  * @date : 2024/01/20 
+  * @time : 51 (ms)
+  * @Description :
+  ************/
+
 public class ch01_02 {
 
 	public static void main(String[] args) {
