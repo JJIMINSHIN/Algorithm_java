@@ -1,10 +1,12 @@
 package inf.ch01;
 
-import java.util.Scanner;
 
-/*
- * 문장 속 단어
-*/
+/************
+ * @name : 문장 속 단어
+ * @date : 2024/01/20 
+ * @time : 30 (ms)
+ * @Description :
+ ************/
 public class ch01_03 {
 	public static void main(String[] args) {
 		String resutl = new inf.ch01.ch01_03().sol("it is time to study");
