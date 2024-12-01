@@ -9,12 +9,12 @@ package programmers.level1;
  * while로 돌려서 하니깐 더 가독성 있는 코드가 완성되었다.
  ************/
 
-public class pro_나머지가1이되는수찾기 {
+public class 나머지가1이되는수찾기 {
 	
 	public static void main(String args[]) {
 		
 		int arr = 12;
-		System.out.println(new pro_나머지가1이되는수찾기().solution(arr));
+		System.out.println(new 나머지가1이되는수찾기().solution(arr));
 	}
 	
 	public int solution(int n) {
