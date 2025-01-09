@@ -4,8 +4,8 @@ import java.io.*;
 import java.util.*;
 
 /************
- * @info : 세로읽기
- * @date : 2025/01/07 15:25 PM
+ * @info : 진법 변환
+ * @date : 2025/01/09 15:25 PM
  * @time : 84(ms)
  * @Description :
  * 진법 변환
