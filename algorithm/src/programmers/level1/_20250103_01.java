@@ -11,7 +11,7 @@ import java.util.*;
  * Arrays.sort() 와 Collections.reverseOrder를 조합해서 쓰길래 적용해봄
  ************/
 
-public class 정수_내림차순으로_배치하기 {
+public class _20250103_01 {
 	public long solution(long n) {
         String answer = "";
         String[] str = (n+"").split("");
