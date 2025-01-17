@@ -12,12 +12,12 @@ package programmers.level1;
  * int값은 전역변수로 해줘야함~ 왜냠, 1에서 더이상 증가하지 않을테니!
  ************/
 
-public class x만큼_간격이_있는_n개의_숫자 {
+public class _240921 {
 
 	public static void main(String args[]) {
 		long startTime = System.currentTimeMillis();
 
-		System.out.println(new x만큼_간격이_있는_n개의_숫자().solution(-4, 3));
+		System.out.println(new _240921().solution(-4, 3));
 		long endTime = System.currentTimeMillis();
 		long duTime = endTime - startTime;
 		System.out.println("active time = " + duTime + " m/s");
