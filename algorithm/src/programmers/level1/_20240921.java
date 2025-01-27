@@ -12,12 +12,12 @@ package programmers.level1;
  * int값은 전역변수로 해줘야함~ 왜냠, 1에서 더이상 증가하지 않을테니!
  ************/
 
-public class _204240921 {
+public class _20240921 {
 
 	public static void main(String args[]) {
 		long startTime = System.currentTimeMillis();
 
-		System.out.println(new _204240921().solution(-4, 3));
+		System.out.println(new _20240921().solution(-4, 3));
 		long endTime = System.currentTimeMillis();
 		long duTime = endTime - startTime;
 		System.out.println("active time = " + duTime + " m/s");
