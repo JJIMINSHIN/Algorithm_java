@@ -8,7 +8,7 @@ package programmers.level1;
  * 원래는 min, max 변수 선언해서 담았는데 Math를 이용한 아주 이쁜문이 있길래 습득했다.
  ************/
 
-public class 두_정수_사이의합 {
+public class _202501023_02 {
 	public  long solution(int a, int b) {
 		long answer = 0;
 
