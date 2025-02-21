@@ -9,7 +9,7 @@ package programmers.level1;
  * n의 범위가 100,000,000이건데 1억 넣고 돌려봐도 34ms밖에 안걸려서 그렇게까지 리소스를 잡아먹는지는 모르겟다.!
  ************/
 
-public class 자릿수_더하기 {
+public class _20241201_01 {
 	public int solution(int n) {
 		int answer = 0;
 		
